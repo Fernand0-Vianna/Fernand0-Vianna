@@ -69,7 +69,9 @@ IDE ................... VSCode, Android Studio
 
 ```bash
 $ cat experiencia/noc.txt
-[Atual] Analista de Sustentação de TI | NOC
+[Atual] Analista de Infraestrutura de TI | NOC | Observability | Azure Cloud
+  Empresa: iamit Soluções em Tecnologia · Tempo integral
+  Período: abr/2024 — momento (2 anos 6 meses)
   → Monitoração e observabilidade (Zabbix)
   → Cloud Azure + Office 365 / Workplace
   → Sustentação Windows, redes e incidentes
@@ -78,17 +80,16 @@ $ cat experiencia/noc.txt
 $ tail -5 formacao.txt
   → TI / Infra + Dev em evolução (JS, Kotlin, Dart)
   → Projetos acadêmicos: Lilas, NutriV, Achadim
-  → Edite aqui: Empresa atual + período
 ```
 
 ### ● ls ~/certificacoes
 
 ```bash
-$ ls certificacoes/ --em-progresso
+$ ls certificacoes/
+[x] TMS Specialist .......... Cervello — DONE
 [ ] AZ-900  ......... Azure Fundamentals (em meta)
 [ ] Zabbix .......... Monitoramento / Observability (em meta)
 [ ] ITIL ............ Fundamentos (em meta)
-# Me fala nome + ano que eu marco como [x] DONE e coloco badge
 ```
 
 ### ● stats --dashboard --theme dracula
@@ -119,6 +120,8 @@ Email ..... sfernandovianna@gmail.com
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/TMS_Specialist-Cervello-3fb950?style=flat-square&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/iamit-Infra_NOC-181717?style=flat-square&logo=statuspage&logoColor=white" />
 </div>
 
 ---
