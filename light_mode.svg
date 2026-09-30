@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,monospace" width="1200" height="530" font-size="13.5px">
+<style>
+  .key {fill: #5b4fcf;}
+  .value {fill: #1a1a2e;}
+  .addColor {fill: #1a7f37;}
+  .delColor {fill: #cf222e;}
+  .cc {fill: #8a9aac;}
+  .ascii {fill: #7c8fa3;}
+  text, tspan {white-space: pre;}
+  .header {fill: #2d3a4a; font-weight: 500;}
+  .dash {fill: #a0aab5;}
+</style>
+<rect width="1200" height="530" fill="#f6f8fa" rx="15"/>
+<text x="60" y="150" fill="#7c8fa3" font-size="26px" font-family="Consolas,monospace" letter-spacing="2">
+<tspan x="60" y="150">   ╒══╗ ╒═════════╗ ╒══╗</tspan>
+<tspan x="60" y="184">  ╒╛ ╓╜ └┐  ╓───┐ ║ └┐ ╚╗</tspan>
+<tspan x="60" y="218"> ╒╛ ╓╜   │  ║   └─╜  └┐ ╚╗</tspan>
+<tspan x="60" y="252">╒╛ ╓╜    │  ╚══╗      └┐ ╚╗</tspan>
+<tspan x="60" y="286">└┐ ╚╗    │  ╓──╜      ╒╛ ╓╜</tspan>
+<tspan x="60" y="320"> └┐ ╚╗   │  ║        ╒╛ ╓╜</tspan>
+<tspan x="60" y="354">  └┐ ╚╗ ╒╛  ╚╗      ╒╛ ╓╜</tspan>
+<tspan x="60" y="388">   └──╜ └────╜      └──╜</tspan>
+</text>
+<text x="600" y="30" fill="#2d3a4a">
+<tspan x="600" y="30" class="header">Fernando Santos Viana</tspan><tspan class="dash"> ———————————————————————————————————————————</tspan>
+<tspan x="600" y="70" class="cc">. </tspan><tspan class="key">Role</tspan><tspan class="value">:</tspan><tspan class="cc"> ........................... </tspan><tspan class="value">Analista Sustentacao TI | NOC</tspan>
+<tspan x="600" y="110" class="cc">. </tspan><tspan class="key">Location</tspan><tspan class="value">:</tspan><tspan class="cc"> .................... </tspan><tspan class="value">Brasil - Nordeste</tspan>
+<tspan x="600" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan><tspan class="value">:</tspan><tspan class="cc"> .......................................... </tspan><tspan class="value">VSCode, Android Studio</tspan>
+<tspan x="600" y="170" class="cc">. </tspan><tspan class="key">Focus</tspan><tspan class="value">:</tspan><tspan class="cc"> ....................................... </tspan><tspan class="value">Observability, Azure, Zabbix, O365</tspan>
+<tspan x="600" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="value">.</tspan><tspan class="key">Programming</tspan><tspan class="value">:</tspan><tspan class="cc"> .............. </tspan><tspan class="value">JS, Kotlin, Dart, HTML/CSS</tspan>
+<tspan x="600" y="250" class="cc">. </tspan><tspan class="key">Learning</tspan><tspan class="value">:</tspan><tspan class="cc"> ............................... </tspan><tspan class="value">Aventurando em programacao</tspan>
+<tspan x="600" y="270" class="cc">. </tspan><tspan class="key">Projects</tspan><tspan class="value">:</tspan><tspan class="cc"> ................................ </tspan><tspan class="value">Lilas, NutriV, Achadim, Clima</tspan>
+<tspan x="600" y="310" class="header">- Contact </tspan><tspan class="dash">—————————————————————————————————————————————————————</tspan>
+<tspan x="600" y="330" class="cc">. </tspan><tspan class="key">GitHub</tspan><tspan class="value">:</tspan><tspan class="cc"> ...................................... </tspan><tspan class="value">Fernand0-Vianna</tspan>
+<tspan x="600" y="350" class="cc">. </tspan><tspan class="key">Bio</tspan><tspan class="value">:</tspan><tspan class="cc"> ........................................... </tspan><tspan class="value">NOC | Observability | Azure Cloud</tspan>
+<tspan x="600" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="value">:</tspan><tspan class="cc"> ...................................... </tspan><tspan class="value">in/fernando-viana-s</tspan>
+<tspan x="600" y="410" class="cc">. </tspan><tspan class="key">Stack</tspan><tspan class="value">:</tspan><tspan class="cc"> ...................................... </tspan><tspan class="value">Zabbix, Azure, Office 365</tspan>
+<tspan x="600" y="450" class="header">- GitHub Stats </tspan><tspan class="dash">———————————————————————————————————————————————————</tspan>
+<tspan x="600" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan><tspan class="value">:</tspan><tspan class="cc"> .... </tspan><tspan class="value">7</tspan><tspan class="value"> {</tspan><tspan class="key">Stars</tspan><tspan class="value">: 7</tspan><tspan class="value">} | </tspan><tspan class="key">Followers</tspan><tspan class="value">: 5</tspan>
+<tspan x="600" y="490" class="cc">. </tspan><tspan class="key">Following</tspan><tspan class="value">:</tspan><tspan class="cc"> ................. </tspan><tspan class="value">7</tspan><tspan class="value"> | </tspan><tspan class="key">Focus</tspan><tspan class="value">: NOC / Cloud / Dev</tspan>
+<tspan x="600" y="510" class="cc">. </tspan><tspan class="key">Top Langs</tspan><tspan class="value">:</tspan><tspan class="cc"> ........................ </tspan><tspan class="value">JavaScript, Kotlin, Dart, HTML</tspan>
+</text>
+</svg>
