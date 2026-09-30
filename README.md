@@ -65,11 +65,37 @@ IDE ................... VSCode, Android Studio
 | [Lilas-helping-Sobra-Zero](https://github.com/Fernand0-Vianna/Lilas-helping-Sobra-Zero) | HTML | Apoio ao projeto Lilas |
 | [meu_perfil](https://github.com/Fernand0-Vianna/meu_perfil) | Markdown/SVG | Customização do perfil — muda conforme o humor 😄 |
 
-### ● stats --dashboard
+### ● cat ~/experiencia.log
+
+```bash
+$ cat experiencia/noc.txt
+[Atual] Analista de Sustentação de TI | NOC
+  → Monitoração e observabilidade (Zabbix)
+  → Cloud Azure + Office 365 / Workplace
+  → Sustentação Windows, redes e incidentes
+  → Foco em disponibilidade e resposta rápida
+
+$ tail -5 formacao.txt
+  → TI / Infra + Dev em evolução (JS, Kotlin, Dart)
+  → Projetos acadêmicos: Lilas, NutriV, Achadim
+  → Edite aqui: Empresa atual + período
+```
+
+### ● ls ~/certificacoes
+
+```bash
+$ ls certificacoes/ --em-progresso
+[ ] AZ-900  ......... Azure Fundamentals (em meta)
+[ ] Zabbix .......... Monitoramento / Observability (em meta)
+[ ] ITIL ............ Fundamentos (em meta)
+# Me fala nome + ano que eu marco como [x] DONE e coloco badge
+```
+
+### ● stats --dashboard --theme dracula
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Fernand0-Vianna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernand0-Vianna&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Fernand0-Vianna&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernand0-Vianna&layout=compact&theme=dracula&hide_border=true&bg_color=00000000" />
 </div>
 
 ### ● contact --open
